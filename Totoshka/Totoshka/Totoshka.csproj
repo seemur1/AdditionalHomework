@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses.sln">
+      <Link>TotoshkaClasses\TotoshkaClasses.sln</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\TotoshkaClasses.csproj">
+      <Link>TotoshkaClasses\TotoshkaClasses\TotoshkaClasses.csproj</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\obj\TotoshkaClasses.csproj.nuget.g.props">
+      <Link>TotoshkaClasses\TotoshkaClasses\obj\TotoshkaClasses.csproj.nuget.g.props</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\obj\project.nuget.cache">
+      <Link>TotoshkaClasses\TotoshkaClasses\obj\project.nuget.cache</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\obj\TotoshkaClasses.csproj.nuget.dgspec.json">
+      <Link>TotoshkaClasses\TotoshkaClasses\obj\TotoshkaClasses.csproj.nuget.dgspec.json</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\obj\project.assets.json">
+      <Link>TotoshkaClasses\TotoshkaClasses\obj\project.assets.json</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\obj\TotoshkaClasses.csproj.nuget.g.targets">
+      <Link>TotoshkaClasses\TotoshkaClasses\obj\TotoshkaClasses.csproj.nuget.g.targets</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\obj\Debug\netcoreapp3.1\TotoshkaClasses.assets.cache">
+      <Link>TotoshkaClasses\TotoshkaClasses\obj\Debug\netcoreapp3.1\TotoshkaClasses.assets.cache</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\TotoshkaClasses\obj\Debug\netcoreapp3.1\TotoshkaClasses.csprojAssemblyReference.cache">
+      <Link>TotoshkaClasses\TotoshkaClasses\obj\Debug\netcoreapp3.1\TotoshkaClasses.csprojAssemblyReference.cache</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\.vs\TotoshkaClasses\xs\UserPrefs.xml">
+      <Link>TotoshkaClasses\.vs\TotoshkaClasses\xs\UserPrefs.xml</Link>
+    </None>
+    <None Include="..\..\TotoshkaClasses\.vs\TotoshkaClasses\xs\project-cache\TotoshkaClasses-Debug.json">
+      <Link>TotoshkaClasses\.vs\TotoshkaClasses\xs\project-cache\TotoshkaClasses-Debug.json</Link>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\TotoshkaClasses\TotoshkaClasses\Street.cs">
+      <Link>TotoshkaClasses\TotoshkaClasses\Street.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>

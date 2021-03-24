@@ -1,0 +1,12 @@
+/Users/semenkondakov/Projects/Totoshka/Totoshka/bin/Debug/netcoreapp3.1/Totoshka.deps.json
+/Users/semenkondakov/Projects/Totoshka/Totoshka/bin/Debug/netcoreapp3.1/Totoshka.runtimeconfig.json
+/Users/semenkondakov/Projects/Totoshka/Totoshka/bin/Debug/netcoreapp3.1/Totoshka.runtimeconfig.dev.json
+/Users/semenkondakov/Projects/Totoshka/Totoshka/bin/Debug/netcoreapp3.1/Totoshka.dll
+/Users/semenkondakov/Projects/Totoshka/Totoshka/bin/Debug/netcoreapp3.1/Totoshka.pdb
+/Users/semenkondakov/Projects/Totoshka/Totoshka/obj/Debug/netcoreapp3.1/Totoshka.csprojAssemblyReference.cache
+/Users/semenkondakov/Projects/Totoshka/Totoshka/obj/Debug/netcoreapp3.1/Totoshka.AssemblyInfoInputs.cache
+/Users/semenkondakov/Projects/Totoshka/Totoshka/obj/Debug/netcoreapp3.1/Totoshka.AssemblyInfo.cs
+/Users/semenkondakov/Projects/Totoshka/Totoshka/obj/Debug/netcoreapp3.1/Totoshka.csproj.CoreCompileInputs.cache
+/Users/semenkondakov/Projects/Totoshka/Totoshka/obj/Debug/netcoreapp3.1/Totoshka.dll
+/Users/semenkondakov/Projects/Totoshka/Totoshka/obj/Debug/netcoreapp3.1/Totoshka.pdb
+/Users/semenkondakov/Projects/Totoshka/Totoshka/obj/Debug/netcoreapp3.1/Totoshka.genruntimeconfig.cache
